@@ -1,0 +1,13 @@
+.venv
+.vscode
+run.sh
+__pycache__/
+*.py[cod]
+*$py.class
+blacklist_db.txt
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+venv
